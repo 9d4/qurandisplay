@@ -1,0 +1,16 @@
+{
+  "name": "qurandisplay",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Dimanda",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.4"
+  }
+}
